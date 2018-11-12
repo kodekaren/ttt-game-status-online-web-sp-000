@@ -55,7 +55,7 @@ end
 def full?(board)
 if board.include?("   ") == true
   return false
-else 
+else
   return true
 end
 
